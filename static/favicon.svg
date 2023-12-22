@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #d65d0e } 
+		.s1 { fill: #b16286 } 
+		.s2 { fill: #fb4934 } 
+	</style>
+	<path id="favicon" class="s0" d="m93 93h214v214h-214z"/>
+	<path id="Shape 1" class="s1" d="m288 160.4c-26.8 0-48.4-21.6-48.4-48.4 0-26.8 21.6-48.4 48.4-48.4 26.8 0 48.4 21.6 48.4 48.4 0 26.8-21.6 48.4-48.4 48.4z"/>
+	<path id="Shape 1 copy" class="s2" d="m288 138.7c-14.8 0-26.7-11.9-26.7-26.7 0-14.8 11.9-26.7 26.7-26.7 14.8 0 26.7 11.9 26.7 26.7 0 14.8-11.9 26.7-26.7 26.7z"/>
+</svg>
